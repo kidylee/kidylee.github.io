@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - 标签 - An Li&#39;s Blog</title>
+        <link>http://kidylee.com/tags/</link>
+        <description>Tags - 标签 - An Li&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kidylee@gmail.com (An Li)</managingEditor>
+            <webMaster>kidylee@gmail.com (An Li)</webMaster><atom:link href="http://kidylee.com/tags/" rel="self" type="application/rss+xml" /></channel>
+</rss>

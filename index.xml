@@ -1,0 +1,30 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>An Li&#39;s Blog</title>
+        <link>http://kidylee.com/</link>
+        <description>Learning, Thinking and Practicing.</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kidylee@gmail.com (An Li)</managingEditor>
+            <webMaster>kidylee@gmail.com (An Li)</webMaster><lastBuildDate>Sun, 10 Jul 2022 00:24:38 &#43;0800</lastBuildDate>
+            <atom:link href="http://kidylee.com/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>给外接显示器增加环境光亮度调节</title>
+    <link>http://kidylee.com/posts/adding-auto-brightness-to-external-monitors/</link>
+    <pubDate>Sun, 10 Jul 2022 00:24:38 &#43;0800</pubDate>
+    <author>An Li</author>
+    <guid>http://kidylee.com/posts/adding-auto-brightness-to-external-monitors/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://source.unsplash.com/LJ9KY8pIH3E/" referrerpolicy="no-referrer">
+            </div>macOS会根据环境光的强弱，自动调节显示器亮度，但如果有外接显示器，亮度则并不会被随之调整。从白天工作到晚上，两个屏幕的亮度差距会越来越大]]></description>
+</item>
+<item>
+    <title>《态度》 —— 喜欢看吴军吹牛</title>
+    <link>http://kidylee.com/posts/attitude/</link>
+    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate>
+    <author>An Li</author>
+    <guid>http://kidylee.com/posts/attitude/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://source.unsplash.com/U3C79SeHa7k/w=640" referrerpolicy="no-referrer">
+            </div>第一次看到吴军这个名字，是在谷歌的黑板报上。当时他在板报上连载一系列文章，介绍了斯坦福大学的一个荒废校区，如何一步一步变成今天的硅谷的故事。]]></description>
+</item>
+</channel>
+</rss>
